@@ -177,6 +177,7 @@ cython_debug/
 **/outputs/
 **/wandb/
 **/checkpoints/
+checkpoints
 data/*
 
 play.sh
