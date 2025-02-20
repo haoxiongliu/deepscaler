@@ -12,7 +12,9 @@ setup(
         'pylatexenc',
         'sentence_transformers',
         'tabulate',
+        'setuptools',
         'flash_attn==2.7.3',
+        'wandb'
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
